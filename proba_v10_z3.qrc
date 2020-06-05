@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/slika"/>
+    <qresource prefix="/">
+        <file>rpi.png</file>
+    </qresource>
+</RCC>
